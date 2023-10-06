@@ -1,4 +1,19 @@
-body {
+head{
     background-color:  blue;
    }
-
+logo{
+     font-size: 30px;
+      font-weight:  bold;
+      padding: 0 40px;
+       line-height: 90px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+     margin: 0 auto;
+}
+.nav-link {
+    color: white;
+    tex-decoration: none;
+    
+}
